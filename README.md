@@ -1,73 +1,45 @@
-Hi there, I'm Deepak! 👋
+# Hi there, I'm Deepak B M 👋
 
-I'm a passionate Data Analyst and Software Tester with a knack for solving complex problems and uncovering actionable insights from data. Currently pursuing my Master's in Data Analytics at the National College of Ireland, I'm on a journey to bridge the gap between raw data and impactful decisions.
+**Software Quality Assurance Engineer | Data Analytics MSc**  
+Dublin, Ireland 🇮🇪 | Stamp 1G (Full Work Rights)
 
-🚀 Skills and Expertise
+---
 
-Data Analytics:
+### 🚀 About Me
+- 🔬 **QA Engineer & Automation Specialist** with hands-on experience in **Java, Selenium, TestNG, Docker, and REST API testing**.
+- 🛠️ **Embedded Systems Experience**: Tested **Toshiba embedded software**, firmware, and hardware-software integrations.
+- 🎓 **MSc in Data Analytics** (NCI Dublin) — skilled in **SQL diagnostics, Python data pipelines, and AI model validation**.
+- ⚡ **Shift-Left QA Advocate**: Experienced in BDD criteria, "Three Amigos" refinement, and proactive defect prevention.
 
-Programming Languages: Python, R
+---
 
-Libraries & Tools: pandas, NumPy, scikit-learn, statsmodels, Prophet, matplotlib, seaborn
+### 🛠️ Tech Stack & Tools
 
-Machine Learning: Multiple Linear Regression, Time Series Analysis, Classification, Clustering
+| Area | Technologies & Tools |
+| :--- | :--- |
+| **Automation & Languages** | Java, Python, SQL, JavaScript / TypeScript (Learning) |
+| **Testing Frameworks** | Selenium RemoteWebDriver, TestNG, BDD Cucumber, JUnit |
+| **API & Data Testing** | Postman, REST Assured, SQL (Complex Joins & Analytics), Pandas |
+| **DevOps & Containers** | Docker, Jenkins, GitLab CI/CD, Git, Linux |
+| **Test & Defect Management** | JIRA, Xray, TestRail, Confluence, Bugzilla |
 
-Tools: Tableau, Power BI, SQL
+---
 
-Software Testing:
+### 📂 Key Projects & Frameworks
 
-1 year experience as a Software Tester at Wimera
+- 🧪 **[Java-Selenium-Docker Automation Framework](https://github.com/BMDeepak)** — Scalable UI test automation suite running on Docker Grid with TestNG and Log4j integration.
+- 📈 **[Stock Market AI Prediction Validation](https://github.com/BMDeepak)** — Performance validation of GRU, LSTM, Prophet, and ARIMA time-series models.
+- 🌍 **[Environmental Data Pipeline & Analytics](https://github.com/BMDeepak)** — Air Quality and Thermal Image Analysis pipelines using Python and open-source spatial data.
 
-2 years as a Quality Analyst Lead at Eastvantage
+---
 
-Expertise in test planning, execution, and automation tools
+### 📜 Certifications
+- 🏅 **ISTQB Certified Tester**
+- ⬛ **Six Sigma Black Belt**
+- 🎓 **S Prayas Certified Test Engineer**
 
-Other Skills:
+---
 
-Communication & Management: Innovator type includes Communicator (30%) and Manager (20%)
-
-Familiar with Agile methodologies
-
-🌍 Interests
-
-Sustainable Development Goals: Passionate about Affordable and Clean Energy
-
-Exploring the intersection of data science and social impact
-
-Working on projects addressing food shortage, including its relationship with malnutrition and obesity
-
-📊 Projects
-
-Automation of e-commerse site using selinum 💰
-
-
-Data Science Projects 📈
-
-DMML Project:
-
-Predicting Housing price based financial data of california houses and finance.
-
-Processing a text file and validating Spam and Ham messages.
-
-Analyse Agriculture production based on weather change.
-
-Sustainability Project 🌱
-
-Investigating food shortages and their societal implications.
-
-🎯 Goals
-
-Land a hybrid work role in data analytics with sponsorship.
-
-Collaborate on open-source projects aligned with sustainability and data for good.
-
-Continue exploring data visualization and AI-driven analytics.
-
-📫 Let's Connect
-
-LinkedIn: www.linkedin.com/in/bmdeepak
-
-GitHub: https://github.com/BMDeepak
-
-
-I'm always open to learning and collaboration. Let's make an impact together!
+### 📫 Connect with Me
+- 💼 **LinkedIn**: [linkedin.com/in/bmdeepak](https://linkedin.com/in/bmdeepak)
+- 📧 **Email**: deepakbyraiahmagadipalya@gmail.com
