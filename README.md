@@ -18,7 +18,7 @@ Dublin, Ireland 🇮🇪 | Stamp 1G (Full Work Rights)
 | Area | Technologies & Tools |
 | :--- | :--- |
 | **Automation & Languages** | Java, Python, SQL, JavaScript / TypeScript (Learning) |
-| **Testing Frameworks** | Selenium RemoteWebDriver, TestNG, BDD Cucumber, JUnit |
+| **Testing Frameworks** | Selenium RemoteWebDriver, TestNG, BDD Cucumber, JUnit, Playwright |
 | **API & Data Testing** | Postman, REST Assured, SQL (Complex Joins & Analytics), Pandas |
 | **DevOps & Containers** | Docker, Jenkins, GitLab CI/CD, Git, Linux |
 | **Test & Defect Management** | JIRA, Xray, TestRail, Confluence, Bugzilla |
